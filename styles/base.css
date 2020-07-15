@@ -72,10 +72,9 @@ iframe {
 
 .banner {
   min-height: 30vh;
-  padding: 5ren 1ren;
+  padding: 5ren 2ren;
   background-image: url('../sunset.jpg');
   background-position: center;
-  object-fit: cover;
   text-align: center;
 }
 
