@@ -75,7 +75,6 @@ iframe {
   padding: 5ren 1ren;
   background-image: url('../sunset.jpg');
   background-position: center;
-  background-repeat: no-repeat;
   object-fit: cover;
   text-align: center;
 }
@@ -86,9 +85,9 @@ iframe {
   padding: 3ren;
   width: auto;
   text-align: center;
-  background: black;
+  background: magenta;
   color: white;
-  border: 10px solid punch;
+  border: 10px solid #add8e6;
   font-size: 3.5ren;
   max-width: 300px;
 }
