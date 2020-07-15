@@ -71,24 +71,28 @@ iframe {
 }
 
 .banner {
-  min-height: 30vh;
-  padding: 5rem 2rem;
-  background-image: url('../sunset.jpg');
-  background-position: center;
-  text-align: center;
+	min-height: 30vh;
+	padding: 5rem 2rem;
+	background-image: url('../sunset.jpg');
+	background-position: left top;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-bottom: 0.2rem solid white;
 }
 
 .banner-text {
-  display: inline-block;
-  margin: auto;
-  padding: 3rem;
-  width: auto;
-  text-align: center;
-  background: magenta;
-  color: white;
-  border: 10px solid #add8e6;
-  font-size: 3.5rem;
-  max-width: 300px;
+	display: inline-block;
+	margin: auto;
+	padding: 3rem;
+	width: auto;
+	text-align: center;
+	background: navy;
+	color: white;
+	border: 10px dashed lime;
+	font-size: 3.5rem;
+	max-width: 300px;
+	border-radius: 3rem;
 }
 
 .profile-img {
