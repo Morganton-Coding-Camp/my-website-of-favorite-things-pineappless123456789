@@ -1,8 +1,8 @@
 /* Base styles */
 
 body {
-  background:black;
-  color:pink;
+  background:rosybrown;
+  color:black;
   font-family: 'Merienda One', cursive;
   font-weight: 300;
   font-size: 16px;
@@ -73,7 +73,7 @@ iframe {
 .banner {
 	min-height: 30vh;
 	padding: 5rem 2rem;
-	background-image: url('../sunset.jpg');
+	background-image: url('../maxresdefault.jpg');
 	background-position: left top;
 	text-align: center;
 	background-repeat: no-repeat;
@@ -87,16 +87,16 @@ iframe {
 	padding: 3rem;
 	width: auto;
 	text-align: center;
-	background: navy;
+	background: #158;
 	color: white;
-	border: 10px dashed lime;
+	border: 10px dashed;
 	font-size: 3.5rem;
 	max-width: 300px;
 	border-radius: 3rem;
 }
 
 .profile-img {
-  max-height: 50vh;
+  max-height: 10rem;
   width: auto;
   border-radius: 50%;
 }
