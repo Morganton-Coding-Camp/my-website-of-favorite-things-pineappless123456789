@@ -73,6 +73,8 @@ iframe {
 .banner {
   min-height: 25vh;
   padding: 5ren 1ren;
+  background-image: url('../Black background with hearts.jpg');
+  background-position: center;
 }
 
 .profile-img {
