@@ -16,7 +16,7 @@ h4,
 h5,
 h6 {
   font-weight: bold;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 h1 {
@@ -96,7 +96,7 @@ iframe {
 }
 
 .profile-img {
-  max-height: 15rem;
+  max-height: 12rem;
   width: auto;
   border-radius: 50%;
 }
