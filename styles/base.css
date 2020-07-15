@@ -75,6 +75,8 @@ iframe {
   padding: 5ren 1ren;
   background-image: url('../sunset.jpg');
   background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
 }
 
 .profile-img {
