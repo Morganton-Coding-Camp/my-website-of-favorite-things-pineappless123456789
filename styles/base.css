@@ -90,6 +90,7 @@ iframe {
   color: white;
   border: 10px solid punch;
   font-size: 3.5ren;
+  max-width: 300px;
 }
 
 .profile-img {
