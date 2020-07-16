@@ -126,13 +126,13 @@ iframe {
 }
 
 .btn-1 {
-	background: black;
-	color: #8a2be2;
-	padding: 1rem;
+	background: #158;
+	color: white;
+	padding: 0.5rem;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 0.5px;
 	border-radius: .25rem;
-	border: 1px solid white;
+	border: 1.5px solid white;
 	transition: border .3s ease;
 }
 
