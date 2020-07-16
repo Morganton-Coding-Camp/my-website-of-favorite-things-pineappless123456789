@@ -101,20 +101,25 @@ iframe {
   border-radius: 50%;
 }
 
-.favorites-color {
-  background: red;
-  padding: 2rem;
-  color: black;
+
+
+.footer {
+	text-align: center;
+	padding: 2rem;
+	font-size: 1.5rem;
 }
 
-.favorites-animal {
-  background: yellow;
-  padding: 2rem;
-  color: black;
+.btn-1 {
+	background: black;
+	color: #8a2be2;
+	padding: 1rem;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: .25rem;
+	border: 1px solid white;
+	transition: border .3s ease;
 }
 
-.favorites-subject {
-  background: green;
-  padding: 2rem;
-  color: black;
+.btn-1:hover {
+	border: 15px solid #1493ff;
 }
