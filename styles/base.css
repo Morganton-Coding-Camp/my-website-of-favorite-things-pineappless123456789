@@ -100,3 +100,21 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorites-color {
+  background: red;
+  padding: 2rem;
+  color: black;
+}
+
+.favorites-animal {
+  background: yellow;
+  padding: 2rem;
+  color: black;
+}
+
+.favorites-subject {
+  background: green;
+  padding: 2rem;
+  color: black;
+}
