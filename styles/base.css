@@ -101,7 +101,23 @@ iframe {
   border-radius: 50%;
 }
 
+.favorite-color {
+	background: red;
+	padding: 2rem;
+	color: black;
+}
 
+.favorite-animal {
+	background: lime;
+	padding: 2rem;
+	color: black;
+}
+
+.favorite-subject {
+	background: ##ffff62;
+	padding: 2rem;
+	color: black;
+}
 
 .footer {
 	text-align: center;
