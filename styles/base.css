@@ -102,19 +102,19 @@ iframe {
 }
 
 .favorite-color {
-	background: hotpink;
+	background: #4ee44e;
 	padding: 2rem;
 	color: black;
 }
 
 .favorite-animal {
-	background: darkcyan;
+	background: #6464e7;
 	padding: 2rem;
 	color: black;
 }
 
 .favorite-subject {
-	background: cornflowerblue;
+	background: #adadad;
 	padding: 2rem;
 	color: black;
 }
